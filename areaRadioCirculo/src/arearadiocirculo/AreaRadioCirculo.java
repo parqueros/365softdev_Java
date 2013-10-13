@@ -1,11 +1,8 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package arearadiocirculo;
 
 /**
- *
+ * Pedir el radio de un círculo y calcular su área. A=PI*r^2.
  * @author pabloarqueros
  */
 public class AreaRadioCirculo {
